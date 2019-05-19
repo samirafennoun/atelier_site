@@ -1,0 +1,47 @@
+.page{
+    width: 780px;
+    margin: auto;
+    font-family: 'source sans Pro',Calibri, Tahoma, sans-serif;
+    font-size: 16px;
+
+}
+.infophoto{
+    height: 250px;
+    
+    
+}
+.info{
+    float: left;
+}
+.photo{
+    float: right;
+   
+    
+}
+.section{
+    margin-bottom: 70px;
+    text-align: justify;
+}
+.sec-gauche{
+    float: left;
+    font-weight: bolder;
+    font-size: 20px;
+
+
+}
+.sec-droite{
+    margin-left: 150px;
+}
+h2{
+    font-size: 28px;
+    color: #14dddd;
+    border-bottom : 3px solid #338888;
+
+}
+.title{
+    font-weight: bold;
+    font-size: 20px;
+}
+p{
+    margin-bottom:100 px;
+}
